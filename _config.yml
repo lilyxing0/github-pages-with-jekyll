@@ -1,11 +1,10 @@
 theme: minima
-title: Ello Mate
+title: Lily's Website :)
 author: Lily Xing
 email: lxing1@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  I don't know what I'm supposed to describe lol.
+  This is my website
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  lilyxing0
 
 show_excerpts: true # set to false to remove excerpts on the homepage
