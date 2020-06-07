@@ -2,7 +2,11 @@
 
 My name is Lily Xing
 
-#### Brag Sheet:
+### One of my cats look something like this:
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Brag Sheet:
 
 *   I have 2 cats named Pepper and Jack
 *   I do high school cheer
