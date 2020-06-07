@@ -1,4 +1,4 @@
 # Website About Myself!
 
 My name is Lily Xing
-I am high schoolers.
+I am high schoolers..
