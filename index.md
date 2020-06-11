@@ -4,7 +4,7 @@
 
 ### These are my cats:
 
-![Pepper](pepper.png)
+![Pepper](Pepper.png)
 
 ![Jack](jack.png)
 
