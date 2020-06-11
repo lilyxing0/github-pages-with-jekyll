@@ -2,9 +2,9 @@
 
 ### My name is Lily Xing
 
-### Picture:
+### These are my cats:
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Pepper](pepper.png)
 
 ### Brag Sheet:
 
