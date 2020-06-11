@@ -1,4 +1,3 @@
-# Website About Myself!
 ## Hello
 
 ### My name is Lily Xing
