@@ -8,6 +8,6 @@
 
 ### Brag Sheet:
 
-*   I enjoy baking
+*   One of my hobbies is baking
 *   I do high school cheer
 *   I volunteer as a TA for first graders
