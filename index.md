@@ -4,7 +4,7 @@
 
 ### These are my cats:
 
-![Pepper](Pepper.png)  ![Jack](Jack.png)
+![Pepper](Pepper.png)  ![Jack](Jacko.png)
 
 ### Brag Sheet:
 
