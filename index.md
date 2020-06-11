@@ -2,10 +2,10 @@
 
 ### My name is Lily Xing
 
-### One of my cats look something like this:
+### Picture:
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-![Me](https://parents.ebnet.org/genesis/sis/photos?type=student&studentID=100411)
+![Pepper](https://www.instagram.com/p/CBRs3r3gJ1l/?utm_source=ig_web_copy_link)
 
 ### Brag Sheet:
 
